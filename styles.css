@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+main{
+	background-color:#000000;
+	color:#ffffff;
+	margin-left:32px;
+	padding:10px
+}
